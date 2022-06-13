@@ -30,7 +30,7 @@ The libraries and modules that were used in this project are as follows:
 16. sklearn - MinMaxScaler
 17. sklearn - OrdinalEncoder
 
-18. lighgbm
+18. lightgbm
 19. catboost - CatBoostRegressor
 
 20. warnings
